@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Framer ecommerce](https://vivaverde.framer.website/)
 
-- 🌱 I’m currently learning **React.JS**
+- 🌱 I’m currently learning **React.JS and motion design**
 
-- 👯 I’m looking to collaborate on **creative work**
+- 👯 I’m looking to collaborate on **portfolios/ landing pages**
 
 - 🤝 I’m looking for help with **data analysis**
 
