@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukasok&label=Profile%20views&color=0e75b6&style=flat" alt="lukasok" /> </p>
 
-- 🔭 I’m currently working on [Framer ecommerce](https://vivaverde.framer.website/)
+- 🔭 I’m currently working on Analysis and development degree
 
-- 🌱 I’m currently learning **React.JS and motion design**
+- 🌱 I’m currently learning **React.JS**
 
 - 👯 I’m looking to collaborate on **portfolios/ landing pages**
 
@@ -13,15 +13,13 @@
 
 - 👨‍💻 All of my projects are available at [https://lukasok.framer.website/](https://lukasok.framer.website/)
 
-- 📝 I regularly write articles on [https://medium.com/@lukasok](https://medium.com/@lukasok)
-
 - 💬 Ask me about **art, creative work and turning insights into visual design.**
 
-- 📫 How to reach me **asbtrato.concreto@gmail.com**
+- 📫 How to reach me **okdigitaldesign@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/lukasok/](https://www.linkedin.com/in/lukasok/)
 
-- ⚡ Fun fact **I can play piano.**
+- ⚡ Fun fact **I love jazz.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
