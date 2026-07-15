@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/lukasok/](https://www.linkedin.com/in/lukasok/)
 
-- ⚡ Fun fact **I got to the top of Himalaia.**
+- ⚡ Fun fact **I got to the top of Himalaya.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
