@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Lukas</h1>
-<h3 align="center">A passionate UX/ UI Designer and frontend developer from Brasil</h3>
+<h3 align="center">Developer from Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukasok&label=Profile%20views&color=0e75b6&style=flat" alt="lukasok" /> </p>
 
-- 🔭 I’m currently working on Analysis and development degree
+- 🔭 I’m currently working on Python automations
 
-- 🌱 I’m currently learning **React.JS**
+- 🌱 I’m currently learning **System Design**
 
-- 👯 I’m looking to collaborate on **portfolios/ landing pages**
+- 👯 I’m looking to collaborate on **creative projects...**
 
-- 🤝 I’m looking for help with **data analysis**
+- 🤝 I’m looking for help with **organization**
 
 - 👨‍💻 All of my projects are available at [https://lukasok.framer.website/](https://lukasok.framer.website/)
 
-- 💬 Ask me about **art, creative work and turning insights into visual design.**
+- 💬 Ask me about **creative work and turning insights into visual design.**
 
 - 📫 How to reach me **okdigitaldesign@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/lukasok/](https://www.linkedin.com/in/lukasok/)
 
-- ⚡ Fun fact **I love jazz.**
+- ⚡ Fun fact **I got to the top of Himalaia.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
