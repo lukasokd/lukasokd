@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lukas</h1>
-<h3 align="center">Developer from Brasil</h3>
+<h3 align="center">UX UI Developer from Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukasok&label=Profile%20views&color=0e75b6&style=flat" alt="lukasok" /> </p>
 
 - 🔭 I’m currently working on Visual automations
 
-- 🌱 I’m currently learning ** Agentic AI**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 👯 I’m looking to collaborate on **creative projects...**
 
