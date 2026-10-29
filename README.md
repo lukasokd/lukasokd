@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukasok&label=Profile%20views&color=0e75b6&style=flat" alt="lukasok" /> </p>
 
-- 🔭 I’m currently working on Python automations
+- 🔭 I’m currently working on Visual automations
 
-- 🌱 I’m currently learning **System Design**
+- 🌱 I’m currently learning ** Agentic AI**
 
 - 👯 I’m looking to collaborate on **creative projects...**
 
-- 🤝 I’m looking for help with **organization**
+- 🤝 I’m looking for help with **Code Review**
 
 - 👨‍💻 All of my projects are available at [https://lukasok.framer.website/](https://lukasok.framer.website/)
 
