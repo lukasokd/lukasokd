@@ -3,23 +3,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukasok&label=Profile%20views&color=0e75b6&style=flat" alt="lukasok" /> </p>
 
-- 🔭 I’m currently working on Visual automations
+- 🔭 I’m currently working on AI Motion Design
 
-- 🌱 I’m currently learning **Agentic AI**
+- 🌱 I’m currently exploring **Agentic AI**
 
-- 👯 I’m looking to collaborate on **creative projects...**
+- 👯 I’m looking to collaborate on **in-house product, design systems at scale, research at scale, stakeholder management**
 
-- 🤝 I’m looking for help with **Code Review**
+- 🤝 I’m looking for help with **AI Harness Design**
 
-- 👨‍💻 All of my projects are available at [https://lukasok.framer.website/](https://lukasok.framer.website/)
+- 👨‍💻 All of my projects are available at [https://oklukas.framer.website/](https://oklukas.framer.website/)
 
-- 💬 Ask me about **creative work and turning insights into visual design.**
+- 💬 Ask me about **creative work and turning insights into visual stuff.**
 
 - 📫 How to reach me **okdigitaldesign@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/lukasok/](https://www.linkedin.com/in/lukasok/)
 
-- ⚡ Fun fact **I got to the top of Himalaya.**
+- ⚡ Fun fact **I can sing in harmony**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
